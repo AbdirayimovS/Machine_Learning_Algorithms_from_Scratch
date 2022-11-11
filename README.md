@@ -1,4 +1,4 @@
-# KNN_from_Scratch
+# MLA_from_Scratch
 KNN algorithm from scratch without using sklearn KNN model 
 Evaluation metric(Confusion matrix) is also done from scratch
 Dataset: WOrld famous Iris Dataset
